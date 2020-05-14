@@ -1,3 +1,7 @@
+### ADAPTED FROM TENSORFLOW'S TEXT GENERATION TUTORIAL
+### https://www.tensorflow.org/tutorials/text/text_generation
+
+
 #!/usr/bin/env python
 # coding: utf-8
 
